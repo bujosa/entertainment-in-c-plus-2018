@@ -1,3 +1,0 @@
-﻿  Jatna Ejercicio 1.cpp
-c:\users\david\desktop\examen final unibe\jatna - alerta\jatna ejercicio 1\jatna ejercicio 1\jatna ejercicio 1.cpp(20): warning C4477: 'printf' : format string '%04d' requires an argument of type 'int', but variadic argument 1 has type 'double'
-  Jatna Ejercicio 1.vcxproj -> C:\Users\David\Desktop\Examen Final UNIBE\Jatna - Alerta\Jatna Ejercicio 1\Debug\Jatna Ejercicio 1.exe
